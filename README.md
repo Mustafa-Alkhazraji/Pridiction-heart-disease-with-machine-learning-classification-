@@ -11,4 +11,4 @@ Random Forest Classifier
 Logistic Regression
 K-Nearest Neighbors (KNN) Classifier
 Linear Support Vector Classifier (SVC)
-After training and evaluating the models, the Random Forest Classifier was selected as the best model, achieving an accuracy of 83.77% and a recall of 85.98%.
+After training and evaluating the models, the Random Forest Classifier was selected as the best model, achieving an accuracy of 83.77% and a recall of 87.98%.
